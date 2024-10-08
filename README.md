@@ -1,6 +1,7 @@
 # Projeto VAT - Vida, Arte e Tecnologia
-O Projeto foi desenvolvido no primeiro semestre da faculdade Puc Minas e consiste no desenvolvimento de uma Aplicação Web, que visa conectar doadores e voluntários a instituições sociais, facilitando o processo de doações e o trabalho voluntário. Esse projeto foi premiado como destaque no primeiro semestre, segue o certificado: 
+O Projeto foi desenvolvido no primeiro semestre da faculdade Puc Minas e consiste no desenvolvimento de uma Aplicação Web, que visa conectar doadores e voluntários a instituições sociais, facilitando o processo de doações e o trabalho voluntário. Esse projeto foi premiado como destaque no primeiro semestre, segue o certificado: [Projeto VAT-2 (1).pdf](https://github.com/user-attachments/files/17300240/Projeto.VAT-2.1.pdf)
 # Integrantes
+
 - Ariane Silveira Almeida Moura
 - Giovanni Finetto Santos
 - Letícia de Oliveira Silva
